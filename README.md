@@ -64,3 +64,7 @@ Document Your Work: For each project, document your methodology, the tools and l
 Showcase Your Code: Use GitHub to host your projects. Make sure your code is well-commented and organized.
 Build a Portfolio Website: Create a simple website where you can showcase these projects. Include a project overview, technologies used, and a link to the GitHub repository.
 Focusing on PropTech projects not only highlights your data analysis skills but also your understanding of real estate markets and technology's role in transforming them. These projects can make your portfolio stand out to employers in the real estate, finance, and tech industries.
+
+
+CHOSE 1 one of the above and started brainstorming on a piece of paper.
+can i add paper on github?
