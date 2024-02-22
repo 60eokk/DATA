@@ -5,6 +5,13 @@ Should I start with Python? or C? C++?
 Another idea with "Property Technology" is a good idea!
 
 
+0222: New thought:
+How can I make a protfolio related to data? 
+I think I can: access some kind of data that is big. and organize
+OR I can make some kind of big data organization? keywords, API, what else can I do? 
+I should search for what some companies have done that deals with big data
+
+
 1. Real Estate Market Analysis
 Objective: Analyze the real estate market trends, including prices, sales volumes, and rental rates, across different regions or over time.
 
